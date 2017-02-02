@@ -11,7 +11,7 @@ using namespace std;
 int main()
 {
 
-	//alan sucks peni
+	
 	cout << "This is the Level 1 Ticket Booth program!" << endl;
 
 	Venue_From_XML ven;
