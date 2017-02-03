@@ -3,7 +3,7 @@
 #include "Venue.h"
 #include "Venue_From_User.h"
 #include "Venue_From_XML.h"
-#include "menu.h"
+#include "Menu.h"
 #include "Command_Processor.h"
 
 using namespace std;
